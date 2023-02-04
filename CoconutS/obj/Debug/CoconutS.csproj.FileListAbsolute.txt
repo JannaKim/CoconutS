@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\CoconutS\CoconutS\bin\Debug\CoconutS.exe.config
+C:\Users\admin\Documents\CoconutS\CoconutS\bin\Debug\CoconutS.exe
+C:\Users\admin\Documents\CoconutS\CoconutS\bin\Debug\CoconutS.pdb
+C:\Users\admin\Documents\CoconutS\CoconutS\obj\Debug\CoconutS.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\CoconutS\CoconutS\obj\Debug\CoconutS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\CoconutS\CoconutS\obj\Debug\CoconutS.exe
+C:\Users\admin\Documents\CoconutS\CoconutS\obj\Debug\CoconutS.pdb
